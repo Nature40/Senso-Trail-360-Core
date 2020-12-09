@@ -1,7 +1,7 @@
 // Garden Gnome Software - Skin
 // Pano2VR 6.1.10/18007
 // Filename: SENSO-Trail-360 Skin.ggsk
-// Generated 2020-12-09T11:55:50
+// Generated 2020-12-09T12:09:47
 
 function pano2vrSkin(player,base) {
 	player.addVariable('HilfeModus', 2, false);
