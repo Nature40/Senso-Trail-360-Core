@@ -1,7 +1,7 @@
 // Garden Gnome Software - Skin
 // Pano2VR 6.1.10/18007
 // Filename: SENSO-Trail-360 Skin.ggsk
-// Generated 2020-12-09T12:24:31
+// Generated 2020-12-09T12:43:23
 
 function pano2vrSkin(player,base) {
 	player.addVariable('HilfeModus', 2, false);
@@ -472,19 +472,19 @@ function pano2vrSkin(player,base) {
 		el.appendChild(els);
 		el.ggSubElement = els;
 		el.ggId="360Box5";
-		el.ggDx=1;
-		el.ggDy=-100;
+		el.ggDx=0;
+		el.ggDy=0;
 		el.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1 };
 		el.ggVisible=false;
 		el.className="ggskin ggskin_svg ";
 		el.ggType='svg';
 		hs ='';
-		hs+='height : 516px;';
+		hs+='height : 626px;';
 		hs+='left : -10000px;';
 		hs+='position : absolute;';
 		hs+='top : -10000px;';
 		hs+='visibility : hidden;';
-		hs+='width : 755px;';
+		hs+='width : 917px;';
 		hs+='pointer-events:auto;';
 		el.setAttribute('style',hs);
 		el.style[domTransform + 'Origin']='50% 50%';
@@ -602,8 +602,8 @@ function pano2vrSkin(player,base) {
 		el.appendChild(els);
 		el.ggSubElement = els;
 		el.ggId="EicheDendro";
-		el.ggDx=-1;
-		el.ggDy=-10;
+		el.ggDx=1;
+		el.ggDy=-38;
 		el.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1 };
 		el.ggVisible=true;
 		el.className="ggskin ggskin_image ";
@@ -668,9 +668,9 @@ function pano2vrSkin(player,base) {
 		el.ggType='svg';
 		hs ='';
 		hs+='height : 42px;';
-		hs+='left : 334px;';
+		hs+='left : 336px;';
 		hs+='position : absolute;';
-		hs+='top : 237px;';
+		hs+='top : 209px;';
 		hs+='visibility : inherit;';
 		hs+='width : 36px;';
 		hs+='pointer-events:auto;';
@@ -726,9 +726,9 @@ function pano2vrSkin(player,base) {
 		el.ggType='image';
 		hs ='';
 		hs+='height : 469px;';
-		hs+='left : 63px;';
+		hs+='left : 145px;';
 		hs+='position : absolute;';
-		hs+='top : 15px;';
+		hs+='top : 41px;';
 		hs+='visibility : hidden;';
 		hs+='width : 628px;';
 		hs+='pointer-events:auto;';
@@ -758,8 +758,8 @@ function pano2vrSkin(player,base) {
 		el.appendChild(els);
 		el.ggSubElement = els;
 		el.ggId="xLupeDendro";
-		el.ggDx=20;
-		el.ggDy=-96;
+		el.ggDx=0;
+		el.ggDy=-29;
 		el.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1 };
 		el.ggVisible=false;
 		el.className="ggskin ggskin_svg ";
@@ -1016,14 +1016,14 @@ function pano2vrSkin(player,base) {
 		el.appendChild(els);
 		el.ggSubElement = els;
 		el.ggId="360Box1";
-		el.ggDx=0;
-		el.ggDy=-100;
+		el.ggDx=1;
+		el.ggDy=-48;
 		el.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1 };
 		el.ggVisible=false;
 		el.className="ggskin ggskin_svg ";
 		el.ggType='svg';
 		hs ='';
-		hs+='height : 516px;';
+		hs+='height : 620px;';
 		hs+='left : -10000px;';
 		hs+='position : absolute;';
 		hs+='top : -10000px;';
@@ -1146,8 +1146,8 @@ function pano2vrSkin(player,base) {
 		el.appendChild(els);
 		el.ggSubElement = els;
 		el.ggId="Image 1";
-		el.ggDx=3;
-		el.ggDy=-8;
+		el.ggDx=0;
+		el.ggDy=-36;
 		el.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1 };
 		el.ggVisible=true;
 		el.className="ggskin ggskin_image ";
@@ -1202,18 +1202,18 @@ function pano2vrSkin(player,base) {
 		el.ggSubElement = els;
 		el.ggId="360Box2";
 		el.ggDx=0;
-		el.ggDy=-100;
+		el.ggDy=-94;
 		el.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1 };
 		el.ggVisible=false;
 		el.className="ggskin ggskin_svg ";
 		el.ggType='svg';
 		hs ='';
-		hs+='height : 516px;';
+		hs+='height : 608px;';
 		hs+='left : -10000px;';
 		hs+='position : absolute;';
 		hs+='top : -10000px;';
 		hs+='visibility : hidden;';
-		hs+='width : 755px;';
+		hs+='width : 891px;';
 		hs+='pointer-events:auto;';
 		el.setAttribute('style',hs);
 		el.style[domTransform + 'Origin']='50% 50%';
@@ -1332,7 +1332,7 @@ function pano2vrSkin(player,base) {
 		el.ggSubElement = els;
 		el.ggId="Image 3";
 		el.ggDx=0;
-		el.ggDy=-5;
+		el.ggDy=-39;
 		el.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1 };
 		el.ggVisible=true;
 		el.className="ggskin ggskin_image ";
@@ -1387,18 +1387,18 @@ function pano2vrSkin(player,base) {
 		el.ggSubElement = els;
 		el.ggId="360Box3";
 		el.ggDx=0;
-		el.ggDy=-100;
+		el.ggDy=-98;
 		el.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1 };
 		el.ggVisible=false;
 		el.className="ggskin ggskin_svg ";
 		el.ggType='svg';
 		hs ='';
-		hs+='height : 516px;';
+		hs+='height : 610px;';
 		hs+='left : -10000px;';
 		hs+='position : absolute;';
 		hs+='top : -10000px;';
 		hs+='visibility : hidden;';
-		hs+='width : 755px;';
+		hs+='width : 887px;';
 		hs+='pointer-events:auto;';
 		el.setAttribute('style',hs);
 		el.style[domTransform + 'Origin']='50% 50%';
@@ -1516,8 +1516,8 @@ function pano2vrSkin(player,base) {
 		el.appendChild(els);
 		el.ggSubElement = els;
 		el.ggId="Image 2";
-		el.ggDx=-1;
-		el.ggDy=-6;
+		el.ggDx=0;
+		el.ggDy=-35;
 		el.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1 };
 		el.ggVisible=true;
 		el.className="ggskin ggskin_image ";

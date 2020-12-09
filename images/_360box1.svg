@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8' standalone='no'?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" viewBox="0 0 124.88333 85.593026" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" version="1.1" sodipodi:docname="Box1.svg" height="323.50119" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="472" id="svg8" inkscape:version="0.92.4 (5da689c313, 2019-01-14)" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#">
+<svg xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" viewBox="0 0 124.88333 100.34144" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" version="1.1" sodipodi:docname="Box.svg" height="379.24323" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="472" id="svg8" inkscape:version="0.92.4 (5da689c313, 2019-01-14)" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#">
  <defs id="defs2">
   <clipPath id="clipPath143" clipPathUnits="userSpaceOnUse">
    <rect x="-715.1568" height="203.14427" width="203.14427" id="rect145" style="stroke-width:1.71212864" transform="rotate(-43.315315)" y="67.804993"/>
@@ -423,7 +423,7 @@
    <rect x="-34.546959" height="42.942448" rx="2.47085" ry="0.40744901" width="8.8779888" id="rect1977-1" style="fill:#000000;fill-opacity:1;stroke:#000000" y="25.718069"/>
   </clipPath>
  </defs>
- <sodipodi:namedview inkscape:document-units="px" inkscape:window-y="-9" inkscape:pageopacity="0.0" inkscape:window-maximized="1" inkscape:window-height="1001" showguides="true" inkscape:pageshadow="2" fit-margin-top="0" inkscape:cy="207.36466" showgrid="false" inkscape:window-x="-9" units="px" inkscape:current-layer="layer1" fit-margin-left="0" inkscape:guide-bbox="true" pagecolor="#ffffff" inkscape:lockguides="false" inkscape:cx="172.80433" inkscape:window-width="1920" fit-margin-right="0" id="base" bordercolor="#666666" inkscape:snap-global="false" fit-margin-bottom="0" borderopacity="1.0" inkscape:zoom="1.4"/>
+ <sodipodi:namedview inkscape:document-units="px" inkscape:window-y="1071" inkscape:pageopacity="0.0" inkscape:window-maximized="1" inkscape:window-height="1001" showguides="true" inkscape:pageshadow="2" fit-margin-top="0" inkscape:cy="235.1067" showgrid="false" inkscape:window-x="-9" units="px" inkscape:current-layer="layer1" fit-margin-left="0" inkscape:guide-bbox="true" pagecolor="#ffffff" inkscape:lockguides="false" inkscape:cx="144.2329" inkscape:window-width="1920" fit-margin-right="0" id="base" bordercolor="#666666" inkscape:snap-global="false" fit-margin-bottom="0" borderopacity="1.0" inkscape:zoom="1.4"/>
  <metadata id="metadata5">
   <rdf:RDF>
    <cc:Work rdf:about="">
@@ -433,9 +433,9 @@
    </cc:Work>
   </rdf:RDF>
  </metadata>
- <g inkscape:label="Ebene 1" id="layer1" inkscape:groupmode="layer" transform="translate(-1.0583325,-203.47911)">
+ <g inkscape:label="Ebene 1" id="layer1" inkscape:groupmode="layer" transform="translate(-1.0583325,-196.07078)">
   <g inkscape:label="Ebene 1" id="layer1-2" style="display:inline;stroke-width:0.98666579" transform="matrix(1.0272114,0,0,1,-31.409626,138.52485)">
-   <path inkscape:connector-curvature="0" id="path891" sodipodi:nodetypes="scsssss" style="opacity:1;fill:#008088;fill-opacity:0.79607843;stroke:#333333;stroke-width:0.95213246;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" d="m 152.07447,146.31014 c 0.84326,-1.10357 0.84323,-78.967769 0,-80.071339 -0.84326,-1.10358 -59.844676,-0.75683 -61.531186,-0.75683 -1.686496,0 -56.983659,-0.34675 -57.826913,0.75683 -0.843254,1.10357 -0.843254,78.967769 0,80.071339 0.843254,1.10358 57.992663,3.76108 59.67916,3.76108 1.686508,0 58.835679,-2.65751 59.678939,-3.76108 z"/>
+   <path inkscape:connector-curvature="0" id="path891" sodipodi:nodetypes="scsssss" style="opacity:1;fill:#008088;fill-opacity:0.79607843;stroke:#333333;stroke-width:0.95213246;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" d="m 152.07447,146.31014 c 0.84326,-1.10357 0.84323,-86.376102 0,-87.479672 -0.84326,-1.10358 -59.844676,-0.75683 -61.531186,-0.75683 -1.686496,0 -56.983659,-0.34675 -57.826913,0.75683 -0.843254,1.10357 -0.843254,86.376102 0,87.479672 0.843254,1.10358 57.992663,3.76108 59.67916,3.76108 1.686508,0 58.835679,-2.65751 59.678939,-3.76108 z"/>
   </g>
  </g>
 </svg>
