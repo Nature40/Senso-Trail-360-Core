@@ -1,7 +1,7 @@
 // Garden Gnome Software - Skin
 // Pano2VR 6.1.10/18007
 // Filename: SENSO-Trail-360 Skin.ggsk
-// Generated 2020-12-10T17:20:39
+// Generated 2020-12-10T17:29:27
 
 function pano2vrSkin(player,base) {
 	player.addVariable('HilfeModus', 2, false);
@@ -1064,6 +1064,7 @@ function pano2vrSkin(player,base) {
 		el.ggSubElement = els;
 		el.ggId="360Box1";
 		el.ggDx=0;
+		el.ggDy=0;
 		el.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1 };
 		el.ggVisible=false;
 		el.className="ggskin ggskin_svg ";
@@ -1072,7 +1073,7 @@ function pano2vrSkin(player,base) {
 		hs+='height : 526px;';
 		hs+='left : -10000px;';
 		hs+='position : absolute;';
-		hs+='top : 86px;';
+		hs+='top : -10000px;';
 		hs+='visibility : hidden;';
 		hs+='width : 665px;';
 		hs+='pointer-events:auto;';
@@ -1101,6 +1102,9 @@ function pano2vrSkin(player,base) {
 				var pw=this.parentNode.clientWidth;
 				var w=this.offsetWidth;
 					this.style.left=(this.ggDx + pw/2 - w/2) + 'px';
+				var ph=this.parentNode.clientHeight;
+				var h=this.offsetHeight;
+					this.style.top=(this.ggDy + ph/2 - h/2) + 'px';
 			}
 		}
 		el=me._check5=document.createElement('div');
@@ -1118,7 +1122,7 @@ function pano2vrSkin(player,base) {
 		elo['ondragstart']=function() { return false; };
 		el.appendChild(elo);
 		el.ggId="Check";
-		el.ggDx=6;
+		el.ggDx=0;
 		el.ggDy=260;
 		el.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1 };
 		el.ggVisible=true;
@@ -1190,7 +1194,7 @@ function pano2vrSkin(player,base) {
 		el.ggSubElement = els;
 		el.ggId="Image 1";
 		el.ggDx=0;
-		el.ggDy=-7;
+		el.ggDy=-10;
 		el.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1 };
 		el.ggVisible=true;
 		el.className="ggskin ggskin_image ";
